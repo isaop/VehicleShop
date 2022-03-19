@@ -1,0 +1,10 @@
+Vehicle with id: 3, brand: Toyota, price: 20000, year: 2000
+Vehicle with id: 44, brand: Audi, price: 35000, year: 2018
+    --> It's a Car with km: 25000.00 and fuel: diesel
+Vehicle with id: 234, brand: Kawasaki, price: 9000, year: 2020
+    --> It's a Motorbike with fuel: gasoline and 800.00 kilometers.
+Vehicle with id: 55, brand: cc, price: 20000, year: 2015
+    --> It's a Trailer made in Germany
+Vehicle with id: 77, brand: Honda, price: 10000, year: 2014
+Vehicle with id: 777, brand: Toyota, price: 15000, year: 2016
+Vehicle with id: 787, brand: Dacia, price: 21000, year: 2020
